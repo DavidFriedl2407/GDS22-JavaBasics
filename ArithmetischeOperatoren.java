@@ -19,8 +19,21 @@ public class ArithmetischeOperatoren {
         System.out.println("modolo: " +ergebnismodolo);
         System.out.println("multiplikation: " +ergebnismultiplikation);
         System.out.println("subtraktion: " +ergebnissubtraktion);
+        int a = 4;
+        int b = 2;
 
-        // für durchdividieren variable *1,0 möglich
+        System.out.println("a++");
+        System.out.println(a++);
+        System.out.println(a);
+
+        // bei a++ wird variable erst danach um 1 erhöht
+
+        System.out.println("++b");
+        System.out.println(++b);
+        System.out.println(b);
+
+
+
 
     }
 }
