@@ -22,6 +22,8 @@ public class ArithmetischeOperatoren {
         int a = 4;
         int b = 2;
 
+
+
         System.out.println("a++");
         System.out.println(a++);
         System.out.println(a);
@@ -31,6 +33,8 @@ public class ArithmetischeOperatoren {
         System.out.println("++b");
         System.out.println(++b);
         System.out.println(b);
+
+
 
 
 
